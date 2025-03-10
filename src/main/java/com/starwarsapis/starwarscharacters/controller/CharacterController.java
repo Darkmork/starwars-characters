@@ -3,7 +3,6 @@ package com.starwarsapis.starwarscharacters.controller;
 import com.starwarsapis.starwarscharacters.model.CharacterDTO;
 import com.starwarsapis.starwarscharacters.service.StarWarsService;
 import com.starwarsapis.starwarscharacters.model.CharacterWithFilmsDTO;
-import com.starwarsapis.starwarscharacters.service.FilmClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;

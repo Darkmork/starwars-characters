@@ -1,4 +1,4 @@
-package com.starwarsapis.starwarscharacters.service;
+package com.starwarsapis.starwarscharacters.feign;
 
 import com.starwarsapis.starwarscharacters.model.Film;
 import org.springframework.cloud.openfeign.FeignClient;
